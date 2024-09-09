@@ -57,7 +57,7 @@ Want to create a similar project? Follow these steps to build your own UPI Payme
 
 ### 💡 Inspiration
 
-This project was inspired by the need for a simple and user-friendly UPI Donation Page. Feel free to add your own creative touch and features!
+This project was inspired by the need for a simple and user-friendly UPI Receipt Or Donation Page. Feel free to add your own creative touch and features!
 
 ### 🥳 CREDIT
 
