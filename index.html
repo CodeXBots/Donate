@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="assets/inulute_icn.ico" type="image/x-icon" />
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script>
+        window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/insights/script.js"></script>
+    <title>UPI Rahul</title>
+</head>
+<body>
+    <div class="container">
+        <div class="qr-container">
+            <div class="qr-code">
+                <img src="assets/qr-code.png" alt="UPI QR Code">
+            </div>
+            <div class="upi-id">
+                <p>Scan the QR code or use the UPI ID:</p>
+                <div class="upi-id-content">
+                    <strong id="upi-id">RahulReviews@upi</strong>
+                    <button id="copy-button" class="copy-button">Copy</button>
+                    <lottie-player 
+                        src="https://lottie.host/2b51d7af-7099-49f5-93df-f8190dde11bb/WU9eejAueC.json"
+                        background="#FFFFFF"
+                        speed="1.5"
+                        loop
+                        autoplay
+                        direction="1"
+                        mode="normal" class="upi-icon"
+                    ></lottie-player>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <script>document.addEventListener("DOMContentLoaded", function () {
+        const copyButton = document.getElementById("copy-button");
+        const upiIdText = document.getElementById("upi-id");
+    
+        copyButton.addEventListener("click", function () {
+            const textToCopy = upiIdText.textContent;
+            
+            const tempInput = document.createElement("input");
+            tempInput.value = textToCopy;
+            document.body.appendChild(tempInput);
+            
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+            
+            copyButton.textContent = "Copied!";
+            
+            setTimeout(function () {
+                copyButton.textContent = "Copy";
+            }, 2500);
+        });
+
+        document.addEventListener("contextmenu", function(event) {
+        event.preventDefault();
+    });
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    user-select: none;
+    height: auto;
+    background-image: url("/assets/background.svg");
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.qr-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0.2, 0.2, 0.2, 0.2);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 350px;
+    overflow-x: hidden;
+    margin: 5%;
+    height: auto;
+      
+}
+
+
+.qr-code img {
+    max-width: 100%;
+    height: auto;
+  }
+
+.upi-id {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.upi-id-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px; 
+}
+
+
+.upi-id strong {
+    color: #007bff;
+    user-select: text;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.copy-button {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: min-content;
+    cursor: pointer;
+}
+
+
+.upi-id p {
+    margin: 0;
+}
+
+* {
+    -webkit-tap-highlight-color: transparent;
+  }
+.upi-icon {
+    width: 40px;
+    height: auto;
+    margin-top: 10px;
+
+}
