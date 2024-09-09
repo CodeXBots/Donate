@@ -77,7 +77,7 @@ This project was inspired by the need for a simple and user-friendly UPI Donatio
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/RahulReviews)
-- [UPI]()
+- [UPI](https://codexbots.github.io/UPI)
 
 ### 📌 NOTE
 
