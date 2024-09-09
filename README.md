@@ -51,7 +51,7 @@ Want to create a similar project? Follow these steps to build your own UPI Payme
 <div align='center'>
 
 > [!NOTE]
-> *Attribution to this [UPI Payment Page]() project are appreciated.*
+> *Attribution to this [UPI Payment Page](https://codexbots.github.io/UPI) project are appreciated.*
 </div>
 </details>
 
