@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="" target="/blank">UPI Page</a>
+ <b><a href="https://youtu.be/0Kc8I24z3uw" target="/blank">UPI Page</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -64,9 +64,9 @@ This project was inspired by the need for a simple and user-friendly UPI Receipt
 <details><summary>Tap On Me For Credit</summary>
 
 
-💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots) So Don't Forgot To Give Credit
+💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots)
 
-💘 Base Repo Credit [Inulute](https://github.com/inulute/upi)
+💘 Base Repo Credit [Inulute](https://github.com/inulute)
 
 💖 And Thank You So Much To All Who Help In This Journey.
 </details>
