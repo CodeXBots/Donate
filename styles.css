@@ -25,10 +25,11 @@ body {
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0px 4px 10px rgba(0.2, 0.2, 0.2, 0.2);
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     max-width: 350px;
     margin: 5%;
+    height: auto;
     
 }
 
@@ -92,7 +93,7 @@ body {
 }
 
 #watermark::after {
-    content: "Made with ❤️ by Inulute";
+    content: "Made by Rahul";
     position: fixed;
     bottom: 0;
     right: 0;
