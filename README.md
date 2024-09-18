@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="https://youtu.be/0Kc8I24z3uw" target="/blank">UPI Page</a>
+ <b><a href="https://youtu.be/0Kc8I24z3uw" target="/blank">UPI & PayPal Donation Page</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -8,8 +8,8 @@
 
 <details><summary>Tap On Me For Bot Features</summary>
 
-- Display a QR code for UPI payments.
-- Display a UPI ID along with a "Copy" button for easy copying.
+- Display a QR code for UPI payments with a dynamic toggle for PayPal.
+- Interactive UPI ID with a "Copy" button that changes to "Open PayPal" when switching to PayPal.
 - Responsive design for various screen sizes.
 - Easy to use and modify.
 - Free to use.
