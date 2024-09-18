@@ -51,7 +51,7 @@ Want to create a similar project? Follow these steps to build your own UPI Payme
 <div align='center'>
 
 > [!NOTE]
-> *Attribution to this [UPI Payment Page](https://codexbots.github.io/UPI) project are appreciated.*
+> *Attribution to this [UPI Payment Page](https://codexbots.github.io/Donate) project are appreciated.*
 </div>
 </details>
 
@@ -77,7 +77,7 @@ This project was inspired by the need for a simple and user-friendly UPI Receipt
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/RahulReviews)
-- [UPI](https://codexbots.github.io/UPI)
+- [UPI](https://codexbots.github.io/Donate)
 
 ### 📌 NOTE
 
